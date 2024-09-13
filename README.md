@@ -29,3 +29,7 @@ This project provides a back-end API for an e-commerce website using Express.js 
 
 1. **Clone the Repository**
 git clone origin https://github.com/JamesWilliamParker/Ecommerce-Backend.git
+
+
+## Resources
+ChatGPT, MDN, Stack, other Google sources, UCF Lectures, UCF course work.
